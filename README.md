@@ -63,3 +63,4 @@
 - **素材**：  
   ★ The Japan Collection: Japanese City (Free Version) / https://assetstore.unity.com/packages/2d/environments/the-japan-collection-japanese-city-free-version-278915
   ★ Sengoku Japan Props 0.2 / https://optimal-daklen.itch.io/japan-props-01
+  ★ 和風ホラー/不気味「モノノ怪伏魔殿」 - フリーBGM / https://music.storyinvention.com/mononoke-fukumaden/
